@@ -9,3 +9,5 @@
         1) Navbar - with amazon logo, search bar
         2) Hero section - with the shopping items categories
         3) Footer - consisting of copyright and other relevant informtion
+
+#) Deployment Link : https://arghya-amazon-clone.netlify.app/
